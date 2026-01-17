@@ -1,0 +1,23 @@
+{
+  "name": "hw-doi-plos-articles",
+  "version": "1.0.0",
+  "description": "A JavaScript/Node.js application to fetch and display PLOS articles by DOI",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "keywords": [
+    "plos",
+    "articles",
+    "doi"
+  ],
+  "author": "",
+  "license": "ISC"
+}
